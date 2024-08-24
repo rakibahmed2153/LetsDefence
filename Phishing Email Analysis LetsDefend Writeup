@@ -1,0 +1,42 @@
+Link of the room ~ https://app.letsdefend.io/training/lessons/phishing-email-analysis
+
+Phishing Email Challange ~ https://app.letsdefend.io/challenge/phishing-email
+
+
+Phishing Email Challange
+What is the return path of the email?
+Ans: bounce@rjttznyzjjzydnillquh.designclub.uk.com
+
+Email header analysis
+
+The returns path of the email
+Run the Lab environment open the file on the desktop and unzip the phishing mail folder. The password for unzipping the folder is infected.
+
+Open the email then go to the view option there is a Header option, and select the All option. Now I can preview all the header details of the email. Scroll down and find the return path of the email that is the answer to the 1st question.
+
+2. What is the domain name of the URL in this mail?
+Ans: storage.googleapis.com
+
+
+Review the real link of the Belohnen
+
+Copy the link address to get the domain name
+3. Is the domain mentioned in the previous question suspicious?
+Ans: Yes
+I found that the link is not the domain that was written in the email so it is suspicious.
+
+4. What is the body SHA-256 of the domain?
+Ans: 13945ecc33afee74ac7f72e1d5bb73050894356c4bf63d02a1a53e76830567f5
+
+
+Body SHA-256 number of the domain
+Search the domain name in the virus total and in the details section get the body SHA-256 number.
+
+5. Is this email a phishing email?
+Ans: Yes
+
+
+Search the whole link in the virus total
+
+Phishing email suggested
+Search the whole link in the virus total and find it suggested that it is a phishing link so the email is a phishing email.
