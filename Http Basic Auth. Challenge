@@ -1,0 +1,35 @@
+Link of the challenge ~ https://app.letsdefend.io/challenge/http-basic-auth
+
+
+Lab Http Basic Auth.
+How many HTTP GET requests are in pcap?
+Ans: 5
+
+Filter the info and GET request
+2. What is the server operating system?
+Ans: FreeBSD
+
+3. What is the name and version of the web server software?
+Ans: Apache/2.2.15
+
+
+Server Software Version
+4. What is the version of OpenSSL running on the server?
+Ans: OpenSSL/0.9.8n
+
+
+OpenSSL Version
+5. What is the client’s user-agent information?
+Ans: Lynx/2.8.7rel.1 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/0.9.8n
+
+
+User Agent Value
+6. What is the username used for Basic Authentication?
+Ans: webadmin
+
+
+Authentication Value
+
+Decrypt the value
+6. What is the user password used for Basic Authentication?
+Ans: W3b4Dm1n
