@@ -1,0 +1,23 @@
+Challenge Link ~ https://app.letsdefend.io/challenge/investigate-web-attack
+
+
+Which automated scan tool did attacker use for web reconnaissance?
+Ans: Nikto
+
+2. After web reconnaissance activity, which technique did attacker use for directory listing discovery?
+Ans: Directory brute force
+
+3. What is the third attack type after directory listing discovery?
+Ans: Brute Force
+
+4. Is the third attack successful?
+Ans: yes
+
+5. What is the name of fourth attack?
+Ans: Code Injection
+
+6. What is the first payload for 4th attack?
+And: whoami
+
+7. Is there any persistency clue for the victim machine in the log file ? If yes, what is the related payload?
+Ans: %27net%20user%20hacker%20Asd123!!%20/add%27
